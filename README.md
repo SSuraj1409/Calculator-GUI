@@ -26,12 +26,19 @@ The code is written using clear variable names and well-structured functions, wh
 ---
 
 ## 🖼️ GUI Screenshot
-<p align="center">
-  <img src="https://i.imgur.com/JYMgwBs.png" alt="Calculator GUI Screenshot" width="400"/>
-  <img src="https://i.imgur.com/ZjGhhO1.png" alt="Calculator GUI Screenshot" width="400"/>
-  <img src="https://i.imgur.com/0Qvzj2L.png" alt="Calculator GUI Screenshot" width="400"/>
-  
-</p>
+
+<div align="center">
+<img src="https://i.imgur.com/JYMgwBs.png" width="80%" alt="Home page after logging in"/>
+<img src="https://i.imgur.com/ZjGhhO1.png" width="80%" alt="Home page after logging in"/>
+<img src="https://i.imgur.com/0Qvzj2L.png" width="80%" alt="Home page after logging in"/>
+<img src="https://i.imgur.com/IKE6iq2.png" width="80%" alt="Home page after logging in"/>
+<img src="https://i.imgur.com/9GmcBzr.png" width="80%" alt="Home page after logging in"/>
+
+
+</div>
+
+<br/>
+
 
 ---
 
